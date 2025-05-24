@@ -1,2 +1,3 @@
 # Git-Github
-Study on GIT &amp; GITHUB
+Study on GIT & GITHUB
+Author - Udaya Shankar Khuntia
